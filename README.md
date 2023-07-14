@@ -1,4 +1,4 @@
-# Java BattleSalvo game
+# Java BattleSalvo Game
 
 ## Game Description
 The game board consists of two grids, typically marked by letters for columns and numbers for rows. The grids are often represented by 10x10 squares, but other variations exist. Each player's grid is divided into rows and columns, allowing players to strategically place their ships on their board. The types and sizes of ships can vary, but common examples include the carrier, battleship, destroyer, submarine, and patrol boat.
